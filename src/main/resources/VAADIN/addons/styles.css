@@ -1,0 +1,7 @@
+.color-button:focus {
+    color: red;
+}
+
+.color-button {
+    color: blue;
+}
